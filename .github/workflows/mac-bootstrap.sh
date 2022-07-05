@@ -1,5 +1,3 @@
-#!/usr/bin/env zsh
-
 set -e
 export WORKFLOW_ROOT=/Users/runner/work/iBoot64Patcher/iBoot64Patcher/.github/workflows
 export DEP_ROOT=/Users/runner/work/iBoot64Patcher/iBoot64Patcher/dep_root
